@@ -1,0 +1,170 @@
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\Note-tak.B4ECD113.Up2Date
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\Note-tak.B4ECD113.Up2Date
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.exe
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.pdb
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\Note Taking App.exe
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\Note Taking App.pdb
+C:\Users\Admin\Downloads\Note_Taking_App-master\Note-taking App\obj\Debug\AudioPlayerForm.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Note Taking App.exe
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Note Taking App.pdb
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\AudioPlayerForm.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\Note-tak.B4ECD113.Up2Date
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\Note Taking App.exe
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App master\Note-taking App\obj\Debug\Note Taking App.pdb
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Note Taking App.exe
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Note Taking App.pdb
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\AudioPlayerForm.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\Note-tak.B4ECD113.Up2Date
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\Note Taking App.exe
+C:\Users\Admin\Downloads\Note_Taking_App\Note-taking App\obj\Debug\Note Taking App.pdb
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.exe.config
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.exe
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.pdb
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Asio.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Core.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Midi.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Wasapi.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinForms.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinMM.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.AccessControl.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.Principal.Windows.dll
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Asio.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Core.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Midi.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Wasapi.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinForms.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinMM.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.AccessControl.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.Principal.Windows.xml
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\AudioPlayerForm.resources
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\Note Taking App.exe
+D:\DO_AN\Trello\Note_Taking_App-master\Note-taking App\obj\Debug\Note Taking App.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.exe
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Note Taking App.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\AudioPlayerForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\Note-tak.B4ECD113.Up2Date
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\Note Taking App.exe
+C:\Users\Admin\Documents\Zalo Received Files\Note_Taking_App-master\Note-taking App\obj\Debug\Note Taking App.pdb
