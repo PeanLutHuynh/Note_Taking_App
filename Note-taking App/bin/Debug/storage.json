@@ -1,45 +1,7 @@
 [
   {
-    "Title": "CTDL",
-    "Message": "thêm file",
-    "ImagePaths": [],
-    "MusicPaths": []
-  },
-  {
-    "Title": "ok được thôi",
-    "Message": "nhạc\r\ntrước hiên nhà ",
-    "ImagePaths": [],
-    "MusicPaths": []
-  },
-  {
-    "Title": "này kia",
-    "Message": "không",
-    "ImagePaths": [],
-    "MusicPaths": []
-  },
-  {
-    "Title": "ta là ai",
-    "Message": "chẳng là ai\r\nMusic: ENDER LILIES MIX Music - 1.5 Hours Make You Relaxed.mp3",
-    "ImagePaths": [],
-    "MusicPaths": [
-      "C:\\Users\\Admin\\Downloads\\ENDER LILIES MIX Music - 1.5 Hours Make You Relaxed.mp3"
-    ]
-  },
-  {
-    "Title": "1",
-    "Message": "",
-    "ImagePaths": [],
-    "MusicPaths": []
-  },
-  {
-    "Title": "11",
-    "Message": "",
-    "ImagePaths": [],
-    "MusicPaths": []
-  },
-  {
-    "Title": "1111",
-    "Message": "",
+    "Title": "Data Structure",
+    "Message": "Test",
     "ImagePaths": [],
     "MusicPaths": []
   }
